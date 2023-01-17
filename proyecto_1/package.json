@@ -1,0 +1,25 @@
+{
+  "name": "proyecto_1",
+  "version": "1.0.0",
+  "description": "Primer proyecto de JS en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bras1994/Curso_Js.git"
+  },
+  "keywords": [
+    "HolaMundo",
+    "primer",
+    "proyecto"
+  ],
+  "author": "Brenda Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bras1994/Curso_Js/issues"
+  },
+  "homepage": "https://github.com/Bras1994/Curso_Js#readme"
+}
